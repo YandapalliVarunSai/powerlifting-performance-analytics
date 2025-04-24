@@ -2,8 +2,6 @@
 # 🏋️‍♂️ Powerlifting Performance Analytics Using Spark & Azure
 
 📊 **Project by:** Yandapalli Varun Sai  
-🆔 **Student ID:** 23325836  
-📅 **Submission:** April 22, 2025
 
 ## 📌 Overview
 A big data pipeline that analyzes 1.5M+ global powerlifting entries to discover insights on federations, gender, equipment, and weight class performance using Apache Spark, Azure SQL, and Power BI.
@@ -55,7 +53,6 @@ Interactive dashboards analyze:
 - Federation-wise strength progress
 - Gender & equipment-based trends
 - Weight class performance profiles
-> 📽️ [Video Presentation](https://youtu.be/pCFKeU3vYfY)
 
 ---
 
@@ -88,5 +85,5 @@ Interactive dashboards analyze:
 ---
 
 ## 📬 Contact
-📧 x23325836@student.ncirl.ie  
+📧 yandapallivarun@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_HANDLE)
