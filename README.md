@@ -86,4 +86,4 @@ Interactive dashboards analyze:
 
 ## 📬 Contact
 📧 yandapallivarun@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_HANDLE)
+🔗 [LinkedIn](https://www.linkedin.com/in/varun-sai-yandapalli/)
